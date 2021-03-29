@@ -5,7 +5,7 @@ I have placed a yellow object in the code, but instead of that,any photo can be 
 
 If you take an object which is in the same color and move that in the air in front of the screen, the screen will scroll automatically as per the actions
 
-#Requirements : 
+# Requirements : 
 
  1.python 3 or above
  2.Pip install cv2
