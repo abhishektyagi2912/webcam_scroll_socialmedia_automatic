@@ -1,5 +1,4 @@
 # webcam_scroll_socialmedia_autoamtic
-This is basically for scrolling in applications such as Insta and FB.
 
 I have placed a yellow object in the code, but instead of that,any color can be embedded in it.
 
